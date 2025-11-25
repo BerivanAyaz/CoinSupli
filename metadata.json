@@ -1,0 +1,5 @@
+{
+  "name": "CoinSupli",
+  "description": "CoinSupli: CoinGecko API kullanan gerçek zamanlı kripto para takip ve analiz uygulaması.",
+  "requestFramePermissions": []
+}
